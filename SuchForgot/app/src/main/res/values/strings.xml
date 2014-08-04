@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SuchForgot</string>
+
+    <!-- Activity Main -->
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+    <string name="state_idle">Idle</string>
+
+    <!-- Activity Main Layout -->
+    <string name="start_service_btn_text">Start</string>
+    <string name="stop_service_btn_text">Stop</string>
+    <string name="state_ignoring">Ignoring</string>
+    <string name="service_status">Service status:</string>
+    <string name="average_accelerometer_magnitude">Avg accel mag:</string>
+    <string name="vehicle_state">State</string>
+
+    <!-- Service -->
+    <string name="service_started_notification">SuchForgot Service started</string>
+    <string name="service_label_notification">SuchForgot</string>
+
+    <!-- Activity Alarm Layout -->
+    <string name="title_activity_activity_alarming">ActivityAlarming</string>
+    <string name="activity_alarm_text">DONT FORGET ME!!!</string>
+    <string name="activity_alarm_stop_btn_text">Stop Alarm</string>
+
+
+</resources>
